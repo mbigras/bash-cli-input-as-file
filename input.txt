@@ -1,0 +1,3 @@
+foo=cats
+bar=dogs
+baz=fleas
